@@ -43,6 +43,7 @@ function calc() {
 
     function initLocalSettings(selector, activeClass) {
         const elements = document.querySelectorAll(selector); 
+        
         elements.forEach(elem => {
             elem.classList.remove(activeClass);
             if (elem.getAttribute('id') === localStorage.getItem('sex')) {
@@ -101,7 +102,7 @@ function calc() {
                 case 'weight': 
                 weight = +input.value;
             break;
-                case 'age': 
+                case 'age':    
                 age = +input.value;
             break;
             }
