@@ -24,49 +24,19 @@
   ],
   "requests": [
     {
-      "name": "m,xnlk",
-      "phone": "+375 29 255 09 69",
+      "name": "1",
+      "phone": "111111111111",
       "id": 1
     },
     {
-      "name": "k",
-      "phone": "+375 29 255 09 69",
+      "name": "a",
+      "phone": "222222222",
       "id": 2
     },
     {
-      "name": " m",
-      "phone": "9393939393",
+      "name": "3",
+      "phone": "333333333333",
       "id": 3
-    },
-    {
-      "name": "m,xnlk",
-      "phone": "+375 29 255-09-69",
-      "id": 4
-    },
-    {
-      "name": "k",
-      "phone": "0309399494",
-      "id": 5
-    },
-    {
-      "name": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-      "phone": "9393939393",
-      "id": 6
-    },
-    {
-      "name": "k",
-      "phone": "29393939393",
-      "id": 7
-    },
-    {
-      "name": "Лиза",
-      "phone": "+375 29 255 09 69",
-      "id": 8
-    },
-    {
-      "name": "m,xnlk",
-      "phone": "0309399494",
-      "id": 9
     }
   ]
 }
