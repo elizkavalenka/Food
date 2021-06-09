@@ -12,4 +12,6 @@ Menu cards with prices are generated from a database stored on the server.
 
 When ordering, the user data stored in the database on the server.
 
+The site also has a countdown timer until the end of the discount.
+
 All interactive elements are created using **JavaScript**, without the use of libraries and frameworks
